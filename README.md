@@ -3,7 +3,7 @@
 Desenvolvedor Android em transição de carreira, apaixonado por tecnologia! há 1 ano conheci o mundo da programação, estudando por conta própria e ja no inicio
 tive a sensação de que havia achado o meu lugar, e este sentimento se renova a cada novo cenceito de aprendizado.
 
-Tenho muito gosto por desenvolver aplicativos, isto me ajuda a ter muita criatividade da hora do planejamento e execução.
+Tenho muito gosto por desenvolver aplicativos, isto me ajuda a ter muita criatividade na hora do planejamento e execução.
 
 **Atualmente:** Estudando contastantemente, e em busca da primeira oportunidade na área.
 
